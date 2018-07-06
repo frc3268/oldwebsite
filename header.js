@@ -23,7 +23,7 @@
 	//	   ...
 	
 	// encapsulated setup
-	window.addEventListener("load", function() {
+	(function() {
 		let header = document.querySelector("header");
 		
 		// logo
@@ -48,6 +48,6 @@
 			navBar.appendChild(navLinkDiv);
 		}
 		
-	});
+	})();
 	
 })();
