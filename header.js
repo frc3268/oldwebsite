@@ -5,7 +5,10 @@
 	
 	const navLinks = [
 		["Home", "/index.html"],
-		["Logos", "/logos/index.html"]
+		["Press", "/videos.html"],
+		["Forms", "/forms.html"],
+		["Logos", "/logos/index.html"],
+		["About", "/about.html"]
 	];
 	
 	// 	STRUCTURE OF HEADER:
