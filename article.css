@@ -6,10 +6,19 @@ article h1 {
 article h2 {
 	font-size: 20pt;
 }
-article p {
+article p, li {
 	font-family: sans-serif;
 	font-size: 12pt;
 }
 article a {
 	color: black;
+}
+article .expired {
+	font-weight: normal;
+	text-decoration: line-through;
+	font-size: 15pt;
+}
+h5 {
+	text-align: right;
+	font-style: italic;
 }
