@@ -26,3 +26,9 @@ article {
 	margin-left: 20%;
 	margin-right: 20%;
 }
+section.centered {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 10px;
+}
