@@ -22,3 +22,7 @@ h5 {
 	text-align: right;
 	font-style: italic;
 }
+article {
+	margin-left: 20%;
+	margin-right: 20%;
+}
