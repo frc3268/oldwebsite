@@ -7,7 +7,7 @@
 		["Home", "/index.html"],
 		["Press", "/videos.html"],
 		["Forms", "/forms.html"],
-		["Logos", "/logos/index.html"],
+		["Logos", "/logos"],
 		["FAQ","/faq.html"],
 		["About", "/about.html"]
 	];
