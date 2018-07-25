@@ -8,6 +8,7 @@
 		["Press", "/videos.html"],
 		["Forms", "/forms.html"],
 		["Logos", "/logos/index.html"],
+		["FAQ","/faq.html"],
 		["About", "/about.html"]
 	];
 	
