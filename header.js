@@ -4,12 +4,12 @@
 (function() { // avoid global declaration
 	
 	const navLinks = [
-		["Home", "/index.html"],
-		["Press", "/videos.html"],
-		["Forms", "/forms.html"],
-		["Logos", "/logos"],
-		["FAQ","/faq.html"],
-		["About", "/about.html"]
+		["Home", "index.html"],
+		["Press", "videos.html"],
+		["Forms", "forms.html"],
+		["Logos", "logos.html"],
+		["FAQ","faq.html"],
+		["About", "about.html"]
 	];
 	
 	// 	STRUCTURE OF HEADER:
