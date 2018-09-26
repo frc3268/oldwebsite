@@ -9,6 +9,7 @@
 		["Forms", "/forms.html"],
 		["Logos", "/logos"],
 		["FAQ","/faq.html"],
+		["Staff", "/staff.html"]
 		["About", "/about.html"]
 	];
 	
