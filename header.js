@@ -10,8 +10,8 @@
 		["About", "about.html"],
 		["Press", "videos.html"],
 		["Coding", "coding.html"],
-      ["FAQ","/faq.html"],
 		["Forms", "forms.html"],
+		["Staff", "staff.html"],
 		["Logos", "logos.html"]
 	];
 
