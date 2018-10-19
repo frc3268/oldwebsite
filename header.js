@@ -11,7 +11,7 @@
 		["Press", "videos.html"],
 		["Coding", "coding.html"],
 		["Forms", "forms.html"],
-		["Staff","/staff.html"],
+		["Staff", "staff.html"],
 		["Logos", "logos.html"]
 	];
 
