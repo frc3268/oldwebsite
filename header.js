@@ -4,11 +4,13 @@
 (function () { // avoid global declaration
 
 	const navLinks = [
+
 		["Home", "index.html"],
 		["FAQ", "faq.html"],
 		["About", "about.html"],
 		["Press", "videos.html"],
 		["Coding", "coding.html"],
+      ["FAQ","/faq.html"],
 		["Forms", "forms.html"],
 		["Logos", "logos.html"]
 	];
