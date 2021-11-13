@@ -12,7 +12,7 @@
 		["Coding", "coding.html"],
 		["Forms", "forms.html"],
 		["Staff", "staff.html"],
-		["Logos", "logos.html"]
+		["Logos", "logos.html"],
 		["Discord", "discordinvite.html"]
 	];
 
