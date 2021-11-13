@@ -13,6 +13,7 @@
 		["Forms", "forms.html"],
 		["Staff", "staff.html"],
 		["Logos", "logos.html"]
+		["Discord", "discordinvite.html"]
 	];
 
 	// 	STRUCTURE OF HEADER:
