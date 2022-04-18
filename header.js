@@ -31,7 +31,7 @@ div {
 </style>
 <a class="navIcon" href='index.html'><img src='navbar/home.png'> <h3>Home</h3> </a>
 <a class="navIcon" href='faq.html'><img src='navbar/faq.png'> <h3>Common Qs</h3> </a>
-<a href='coding.html'><img src='navbar/code.png'></a> <h3>Coding</h3>
+<a class="navIcon" href='coding.html'><img src='navbar/code.png'><h3>Coding</h3></a>
 <a class="navIcon" href='https://discord.com/invite/Gt6eUeGbAh'><img src='navbar/discord.png'> <h3>Discord</h3> </a>
 `;
 
