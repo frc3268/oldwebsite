@@ -1,84 +1,59 @@
-/* Contains all style code for the core article content of a page.
- * Put no style code here NOT specifically applying to article text. */
-article h1 {
-	font-size: 30pt;
+.wow {
+  width: 100px;
 }
-
-article h2 {
-	font-size: 20pt;
+h1 {
+  text-align: center;
+  font-size: 30px;
+  color: yellow;
 }
-
-article p,
-li {
-	font-family: sans-serif;
-	font-size: 12pt;
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-right: auto;
 }
-
-article a {
-	color: white;
+h1 {
+  font-size: 40px;
 }
-
-article .expired {
-	font-weight: normal;
-	text-decoration: line-through;
-	font-size: 15pt;
+h3 {
+  display:inline;
+  padding-right: 20px;
+  padding-left: 0px;
+  vertical-align: middle;
 }
-
 h5 {
-	text-align: right;
-	font-style: italic;
+  font-size: 10px;
+  text-align: center;
+  float: bottom;
+  padding-top: 160px;
 }
-
-article {
-	margin-left: 20%;
-	margin-right: 20%;
+#navbar {
+  float: left;
+  text-align: center;
+  width: 100px;
+  border: solid white 2px;
+  border-radius: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
-
-section.centered {
-	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
-	padding: 10px;
+a {
+  color: white;
+  text-decoration: none;
 }
-
-/* Contains all style code necessary for displaying a universal header.
- * Put no style code here NOT necessary for the header; use diff file. */
-header {
-	width: 90%;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
-	margin: 4%;
-	margin-left: auto;
-	margin-right: auto;
-	font-family: sans-serif;
+a:hover {
+  color: yellow;
 }
-
-#logo {
-	width: 80%;
-	height: auto;
-	align-self: center;
-	margin-bottom: 2%;
+#main {
+  float: none;
+  width: 70%;
+  font-size: 20px;
 }
-
-#navBar {
-	width: 75%;
-	display: flex;
-	flex-flow: row wrap;
-	justify-content: space-around;
-	background-color : black;
+p {
+  text-indent: 30px;
 }
-
-#navBar > div {
-	padding: 3px;
-	border: 3px solid white;
-	margin: 5px;
+img {
+  vertical-align: middle;
 }
-
-#navBar a {
-	font-size: 15pt;
-	color: white;
-	text-decoration: none;
-	font-weight: bold;
+.navIcon:hover {
+  filter: brightness(0) saturate(100%) invert(100%) sepia(98%) saturate(5923%) hue-rotate(356deg) brightness(104%) contrast(104%);
 }
