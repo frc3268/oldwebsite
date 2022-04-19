@@ -42,11 +42,8 @@ div {
 `;
 theHead = document.getElementsByTagName('head');
 theHead[0].innerHTML = `
+<link rel = "icon" type = "image/png" href = "logos/icon.ico">
+<!-- For apple devices -->
+<link rel = "apple-touch-icon" type = "image/png" href = "logos/icon.ico"/>
 `
-if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
-  /*For when on mobile*/
-  document.getElementById('navbar').innerHTML = navMobile;
-} else {
-  /*For when on desktop*/
-  document.getElementById('navbar').innerHTML = navDesktop;
-}
+
