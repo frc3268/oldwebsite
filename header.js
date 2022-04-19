@@ -46,7 +46,12 @@ div {
 <a class="navIcon" href='history.html'><img src='navbar/history.png'> <h3>History</h3></a>
 
 `;
-
+theHead = document.getElementsByTagName('head');
+theHead[0].innerHTML = `
+<link rel = "icon" type = "image/png" href = "logos/icon.png">
+<!-- For apple devices -->
+<link rel = "apple-touch-icon" type = "image/png" href = "logos/icon.png"/>
+`
 if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
   /*For when on mobile*/
   document.getElementById('navbar').innerHTML = navMobile;
