@@ -13,9 +13,6 @@ const navMobile = `
   margin-bottom: 30px;
 }
 </style>
-<link rel = "icon" type = "image/png" href = "logos/icon.ico">
-<!-- For apple devices -->
-<link rel = "apple-touch-icon" type = "image/png" href = "logos/icon.ico"/>
 
 <a href='index.html'><img src='navbar/home.png'></a>
 <a href='faq.html'><img src='navbar/faq.png'></a>
@@ -35,9 +32,6 @@ div {
   padding: 10px;
 }
 </style>
-<link rel = "icon" type = "image/png" href = "logos/icon.ico">
-<!-- For apple devices -->
-<link rel = "apple-touch-icon" type = "image/png" href = "logos/icon.ico"/>
 
 <a class="navIcon" href='index.html'><img src='navbar/home.png'> <h3>Home</h3> </a>
 <a class="navIcon" href='faq.html'><img src='navbar/faq.png'> <h3>Common Qs</h3> </a>
@@ -48,9 +42,9 @@ div {
 `;
 theHead = document.getElementsByTagName('head');
 theHead[0].innerHTML = `
-<link rel = "icon" type = "image/png" href = "logos/icon.png">
+<link rel = "icon" type = "image/png" href = "logos/icon.ico">
 <!-- For apple devices -->
-<link rel = "apple-touch-icon" type = "image/png" href = "logos/icon.png"/>
+<link rel = "apple-touch-icon" type = "image/png" href = "logos/icon.ico"/>
 `
 if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
   /*For when on mobile*/
