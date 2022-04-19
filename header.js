@@ -13,6 +13,10 @@ const navMobile = `
   margin-bottom: 30px;
 }
 </style>
+<link rel = "icon" type = "image/png" href = "logos/icon.png">
+<!-- For apple devices -->
+<link rel = "apple-touch-icon" type = "image/png" href = "logos/icon.png"/>
+
 <a href='index.html'><img src='navbar/home.png'></a>
 <a href='faq.html'><img src='navbar/faq.png'></a>
 <a href='coding.html'><img src='navbar/code2.png'></a>
@@ -31,6 +35,10 @@ div {
   padding: 10px;
 }
 </style>
+<link rel = "icon" type = "image/png" href = "logos/icon.png">
+<!-- For apple devices -->
+<link rel = "apple-touch-icon" type = "image/png" href = "logos/icon.png"/>
+
 <a class="navIcon" href='index.html'><img src='navbar/home.png'> <h3>Home</h3> </a>
 <a class="navIcon" href='faq.html'><img src='navbar/faq.png'> <h3>Common Qs</h3> </a>
 <a class="navIcon" href='coding.html'><img src='navbar/code2.png'><h3>Coding</h3></a>
