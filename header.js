@@ -17,6 +17,8 @@ const navMobile = `
 <a href='faq.html'><img src='navbar/faq.png'></a>
 <a href='coding.html'><img src='navbar/code2.png'></a>
 <a href='https://discord.com/invite/Gt6eUeGbAh'><img src='navbar/discord.png'></a>
+<a href='coding.html'><img src='navbar/history.png'></a>
+
 `;
 const navDesktop = `
 <style>
@@ -33,6 +35,8 @@ div {
 <a class="navIcon" href='faq.html'><img src='navbar/faq.png'> <h3>Common Qs</h3> </a>
 <a class="navIcon" href='coding.html'><img src='navbar/code2.png'><h3>Coding</h3></a>
 <a class="navIcon" href='https://discord.com/invite/Gt6eUeGbAh'><img src='navbar/discord.png'> <h3>Discord</h3> </a>
+<a href='coding.html'><img src='navbar/history.png'></a> <h3>History</h3>
+
 `;
 
 if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
