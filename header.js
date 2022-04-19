@@ -17,7 +17,7 @@ const navMobile = `
 <a href='faq.html'><img src='navbar/faq.png'></a>
 <a href='coding.html'><img src='navbar/code2.png'></a>
 <a href='https://discord.com/invite/Gt6eUeGbAh'><img src='navbar/discord.png'></a>
-<a href='coding.html'><img src='navbar/history.png'></a>
+<a href='history.html'><img src='navbar/history.png'></a>
 
 `;
 const navDesktop = `
@@ -35,7 +35,7 @@ div {
 <a class="navIcon" href='faq.html'><img src='navbar/faq.png'> <h3>Common Qs</h3> </a>
 <a class="navIcon" href='coding.html'><img src='navbar/code2.png'><h3>Coding</h3></a>
 <a class="navIcon" href='https://discord.com/invite/Gt6eUeGbAh'><img src='navbar/discord.png'> <h3>Discord</h3> </a>
-<a class="navIcon" href='coding.html'><img src='navbar/history.png'> <h3>History</h3></a>
+<a class="navIcon" href='history.html'><img src='navbar/history.png'> <h3>History</h3></a>
 
 `;
 
