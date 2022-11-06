@@ -18,7 +18,6 @@ const navMobile = `
 <a href='faq.html'><img src='navbar/faq.png'></a>
 <a href='coding.html'><img src='navbar/code2.png'></a>
 <a href='https://discord.com/invite/Gt6eUeGbAh'><img src='navbar/discord.png'></a>
-<a href='history.html'><img src='navbar/history.png'></a>
 
 `;
 const navDesktop = `
