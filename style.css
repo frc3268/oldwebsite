@@ -13,7 +13,7 @@ body {
   margin-right: auto;
 }
 h1 {
-  font-size: 40px;
+  font-size: 25px;
 }
 h3 {
   display:inline;
@@ -46,7 +46,7 @@ a:hover {
 #main {
   float: none;
   width: 70%;
-  font-size: 20px;
+  font-size: 14px;
 }
 p {
   text-indent: 30px;
